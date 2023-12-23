@@ -12,8 +12,7 @@ This project is outlined on this [Confluence Page](https://wondersco.atlassian.n
 
 
 ## Data Query 
-sql
-```
+```sql
 select
 o.customer_id, 
 o.restaurant_id, 
